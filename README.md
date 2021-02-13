@@ -1,2 +1,2 @@
-# Smiling Selfie
- taking selfie when you are smiling using Opencv 
+# Projects
+ 1. taking selfie when you are smiling using Opencv 
